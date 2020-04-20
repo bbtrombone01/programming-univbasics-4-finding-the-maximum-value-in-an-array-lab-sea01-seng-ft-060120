@@ -1,5 +1,5 @@
 def find_max_value(array)
-  empty = []
+  empty = 0
   count = 0
   while count < array.length
     if empty < array[count]
