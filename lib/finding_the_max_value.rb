@@ -6,5 +6,5 @@ def find_max_value(array)
       empty = array[count]
     end
   count = count + 1
-end
+  end
 end
